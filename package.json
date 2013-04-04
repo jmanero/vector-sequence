@@ -1,0 +1,16 @@
+{
+	"name" : "vector-sequence",
+	"version" : "0.0.1",
+	"description" : "Execute a complex structure of tasks in the correct sequence",
+	"author" : {
+		"name" : "John Manero",
+		"email" : "jmanero@dyn.com"
+	},
+	"dependencies" : {
+		"qrly" : "0.1.x",
+		"simple-uid" : "0.0.x"
+	},
+	"engines": {
+		"node": ">=0.8"
+	}
+}

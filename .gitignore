@@ -1,0 +1,8 @@
+.DS_Store
+ssl/*
+cert/*
+data/*
+config.js
+.project
+.settings
+node_modules
