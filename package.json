@@ -10,6 +10,11 @@
 		"qrly" : "0.1.x",
 		"simple-uid" : "0.0.x"
 	},
+	"repository" : {
+	    "type" : "git",
+	    "url" : "git://github.com/jmanero/vector-sequence.git"
+	},
+	"license" : "MIT",
 	"engines": {
 		"node": ">=0.8"
 	}
